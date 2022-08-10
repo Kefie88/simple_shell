@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * prompt_user - Prints $ to let user know the program
- * is ready to take their input. Prints th eprompt if the 
+ * is ready to take their input. Prints th eprompt if the
  * shell is in iteractive mode
  * Return: Nothing (void)
  */
