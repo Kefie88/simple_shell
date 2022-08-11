@@ -19,5 +19,8 @@ int handle_builtin(char **command, char *line)
 		exit_cmd(command, line);
 		return (1);
 	}
-	return (0);
+	else
+	{
+		return (0);
+	}
 }
